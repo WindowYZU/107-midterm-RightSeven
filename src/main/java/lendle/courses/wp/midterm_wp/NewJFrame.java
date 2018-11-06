@@ -108,7 +108,6 @@ public class NewJFrame extends javax.swing.JFrame {
         try {
             jButton1.setEnabled(false);
             //從 combobox 抓出被選到的項目，存到變數裡
-            //String selectedItem="";
             String selectedItem = (String) jComboBox1.getSelectedItem();
             
             /////////////////////////////////////
